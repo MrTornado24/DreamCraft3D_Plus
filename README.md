@@ -1,6 +1,6 @@
 # DreamCraft3D++
 
-[**Paper**](https://arxiv.org/abs/2310.16818) | [**Project Page**](https://dreamcraft3dplus.github.io/) | [**Youtube Video**](https://www.youtube.com/watch?v=0FazXENkQms) | [**ICLR Version**](https://mrtornado24.github.io/DreamCraft3D/)
+[**Paper**](https://arxiv.org/abs/2410.12928) | [**Project Page**](https://dreamcraft3dplus.github.io/) | [**Youtube Video**](https://www.youtube.com/watch?v=0FazXENkQms) | [**ICLR Version**](https://mrtornado24.github.io/DreamCraft3D/)
 
 Official implementation of DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model
 
