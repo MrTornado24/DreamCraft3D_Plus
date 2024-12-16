@@ -48,10 +48,17 @@ This code is built on the amazing open-source projects [threestudio-project](htt
 ## BibTeX
 
 ```bibtex
+@article{sun2024dreamcraft3d++,
+  title={DreamCraft3D++: Efficient Hierarchical 3D Generation with Multi-Plane Reconstruction Model},
+  author={Sun, Jingxiang and Peng, Cheng and Shao, Ruizhi and Guo, Yuan-Chen and Zhao, Xiaochen and Li, Yangguang and Cao, Yanpei and Zhang, Bo and Liu, Yebin},
+  journal={arXiv preprint arXiv:2410.12928},
+  year={2024}
+}
 @article{sun2023dreamcraft3d,
   title={Dreamcraft3d: Hierarchical 3d generation with bootstrapped diffusion prior},
   author={Sun, Jingxiang and Zhang, Bo and Shao, Ruizhi and Wang, Lizhen and Liu, Wen and Xie, Zhenda and Liu, Yebin},
   journal={arXiv preprint arXiv:2310.16818},
   year={2023}
 }
+
 ```
