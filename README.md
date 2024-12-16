@@ -43,6 +43,7 @@ This code is built on the amazing open-source projects [threestudio-project](htt
 - [Magic123](https://guochengqian.github.io/project/magic123/)
 - [ProlificDreamer](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)
 - [LGM](https://github.com/3DTopia/LGM)
+- [IPDreamer](https://github.com/zengbohan0217/IPDreamer)
 
 ## BibTeX
 
